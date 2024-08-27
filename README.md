@@ -1,6 +1,7 @@
  <h1 align="center">Hi 👋, I'm Satyam Bhardwaj</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://as1.ftcdn.net/v2/jpg/04/17/28/36/1000_F_417283633_47AQ9AVxRMcAaNCzwIhS7xVMGKpcDuj8.jpg">
+<img align="right" alt="coding" width="400" src=" https://imgs.search.brave.com/rWIEfjA0_Z572ylo9HVFK4uHk4yxvTUiau0OfuDrF7o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9j/b21wdXRlci1wcm9n/cmFtLWNvZGluZy1z/Y3JlZW5fNTM4NzYt/MTM4MDYwLmpwZz9z/aXplPTYyNiZleHQ9/anBn">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dialiser&label=Profile%20views&color=0e75b6&style=flat" alt="dialiser" /> </p>
 
