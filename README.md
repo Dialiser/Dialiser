@@ -1,8 +1,7 @@
  <h1 align="center">Hi 👋, I'm Satyam Bhardwaj</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://as1.ftcdn.net/v2/jpg/04/17/28/36/1000_F_417283633_47AQ9AVxRMcAaNCzwIhS7xVMGKpcDuj8.jpg">
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=coder%20images&imgurl=https%3A%2F%2F4kwallpapers.com%2Fimages%2Fwallpapers%2Fcoder-amoled-black-3440x1440-13668.png&imgrefurl=https%3A%2F%2F4kwallpapers.com%2Ftechnology%2Fcoder-amoled-black-13668.html&docid=jSr7CINvTyi7ZM&tbnid=GGRSic95iv8OaM&vet=12ahUKEwiB5Onr0pSIAxXDcGwGHUIsGyEQM3oECCUQAA..i&w=3440&h=1440&hcb=2&ved=2ahUKEwiB5Onr0pSIAxXDcGwGHUIsGyEQM3oECCUQAA">
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dialiser&label=Profile%20views&color=0e75b6&style=flat" alt="dialiser" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dialiser" alt="dialiser" /></a> </p>
